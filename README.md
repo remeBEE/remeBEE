@@ -12,7 +12,7 @@ im trying to learn how this website works
 i feel like I dont know how to code even though I can
 
 
-currently working on a custom system for foundry vtt for the *Draw Steel* system developed by MCDM. Theres no official foundry module as of now, so I thought itd be fun to try and make my own :\) 
+currently working on a custom system for foundry vtt for the *Draw Steel* system developed by MCDM. Theres no official foundry module as of now, so I thought itd be interesting to try and make my own
 
 i mostly only know java as of right now, its the only thing my school has taught me but Im trying to branch out
 
