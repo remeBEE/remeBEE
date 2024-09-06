@@ -1,4 +1,30 @@
-## Hi there 👋
+## Hello
+
+idk what im doing
+
+
+do people actually read these ?
+
+
+im trying to learn how this website works
+
+
+i feel like I dont know how to code even though I can
+
+
+currently working on a custom system for foundry vtt for the *Draw Steel* system developed by MCDM. Theres no official foundry module as of now, so I thought itd be fun to try and make my own :\) 
+
+i mostly only know java as of right now, its the only thing my school has taught me but Im trying to branch out
+
+CS major
+
+trans
+
+idk what else to put here ngl
+
+
+
+
 
 <!--
 **remeBEE/remeBEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
